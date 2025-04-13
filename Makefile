@@ -1,4 +1,4 @@
-TAILWINDCSS_OS_ARCH := macos-arm64
+TAILWINDCSS_OS_ARCH := macos-x64
 #TAILWINDCSS_OS_ARCH := linux-x64
 
 .PHONY: benchmark
